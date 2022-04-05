@@ -1,0 +1,23 @@
+.home{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    margin-top: 50px;
+
+}
+.title{
+    margin-top: 70px;
+    color:rgb(247, 64, 247);
+    margin-left: 100px;
+}
+.title p{
+    color: black;
+}
+
+.img{
+    width: 100px;
+    height: 200px;
+     margin-right: 300px;
+
+    
+  }
